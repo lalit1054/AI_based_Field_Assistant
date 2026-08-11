@@ -1,0 +1,13 @@
+2026-07-08T10:00:01.001Z INFO  vision-engine: service started, version=1.4.2
+2026-07-08T10:00:02.114Z INFO  vision-engine: camera link established, fps=25
+2026-07-08T10:05:12.442Z WARN  vision-engine: frame grab latency high (280ms), monitoring
+2026-07-08T10:12:33.812Z ERROR vision-engine: no video signal from camera, camera disconnected
+2026-07-08T10:12:33.900Z ERROR vision-engine: frame grab timeout after 5000ms
+2026-07-08T10:12:34.002Z WARN  vision-engine: retrying camera connection, attempt=1
+2026-07-08T10:12:39.010Z WARN  vision-engine: retrying camera connection, attempt=2
+2026-07-08T10:12:44.030Z ERROR vision-engine: camera disconnected, giving up after 3 attempts
+2026-07-08T10:15:00.000Z INFO  vision-engine: heartbeat sent to api server
+2026-07-08T10:20:00.000Z INFO  vision-engine: heartbeat sent to api server
+2026-07-08T10:30:11.500Z WARN  vision-engine: part count mismatch detected on line=1
+2026-07-08T10:30:11.600Z WARN  vision-engine: counter out of sync, recalibration recommended
+2026-07-08T10:45:20.000Z ERROR vision-engine: reject gate actuator offline, not responding

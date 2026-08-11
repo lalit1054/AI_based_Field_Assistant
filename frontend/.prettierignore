@@ -1,0 +1,6 @@
+dist
+dev-dist
+coverage
+playwright-report
+pnpm-lock.yaml
+src/types/api.d.ts

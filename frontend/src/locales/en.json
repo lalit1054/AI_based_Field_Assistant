@@ -1,0 +1,35 @@
+{
+  "common": {
+    "appName": "Field Assistant",
+    "language": "Language",
+    "loading": "Loading…",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "back": "Back",
+    "continue": "Continue",
+    "submit": "Submit",
+    "somethingWentWrong": "Something went wrong",
+    "offlineBanner": "You're offline — your report will be sent when connection returns"
+  },
+  "auth": {
+    "phone": {
+      "title": "Log in to continue",
+      "subtitle": "Enter your phone number to continue — no code needed",
+      "phoneLabel": "Phone number",
+      "phonePlaceholder": "+919800000010",
+      "continue": "Continue",
+      "signingIn": "Signing in…",
+      "invalidPhone": "Enter a valid phone number, e.g. +919800000010",
+      "errorFailed": "Couldn't sign you in. Please try again."
+    },
+    "staff": {
+      "title": "Staff sign in",
+      "subtitle": "Sign in with your work email and password",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "signIn": "Sign in",
+      "signingIn": "Signing in…",
+      "errorInvalidCredentials": "Invalid email or password"
+    }
+  }
+}
