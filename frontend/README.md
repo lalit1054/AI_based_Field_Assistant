@@ -1,6 +1,6 @@
 # AI Field Assistant — Frontend
 
-Mobile-first PWA for field troubleshooting and ticketing of Intelligent Traffic Systems (ANPR, AVC, SVDS, MLFF). The operator flow targets a non-technical toll-plaza operator on a mid-range Android phone over 4G; staff flows (tickets, dashboard, assets, KB, admin) are desktop-friendly.
+Mobile-first PWA for field troubleshooting and ticketing of manufacturing plant machine vision / inspection lines and related shop-floor equipment. The operator flow targets a non-technical plant-floor operator on a mid-range Android phone over 4G; staff flows (tickets, dashboard, assets, KB, admin) are desktop-friendly.
 
 ## Stack
 

@@ -1,8 +1,8 @@
 # AI Field Assistant
 
-AI-assisted troubleshooting & ticketing platform for Intelligent Traffic System (ITS) deployments — ANPR, AVC, SVDS, MLFF — across multiple client sites and lanes.
+AI-assisted troubleshooting & ticketing platform for manufacturing plant vision-based inspection systems (e.g. parts inspection machines on a production line) — across multiple plants and lines.
 
-Every deployed unit carries a QR sticker. Scanning it opens a mobile-first web app where an LLM-based diagnostic assistant reads the system's recent logs/health/heartbeat data, matches them against a curated knowledge base (runbooks, SOPs, known-error database) via RAG, explains the likely cause in plain language, and walks a non-technical operator through a self-fix. If that doesn't resolve it, the operator raises a ticket in one tap, auto-filled with context, diagnostic summary, chat transcript, and photos.
+Every deployed machine carries a QR sticker. Scanning it opens a mobile-first web app where an LLM-based diagnostic assistant reads the machine's recent logs/health/heartbeat data, matches them against a curated knowledge base (runbooks, SOPs, known-error database, OEM manuals) via RAG, explains the likely cause in plain language, and walks a non-technical plant operator through a self-fix. If that doesn't resolve it, the operator raises a ticket in one tap, auto-filled with context, diagnostic summary, chat transcript, and photos.
 
 See [`scope-document.md`](scope-document.md) and [`detailed-plan-document.md`](detailed-plan-document.md) for the full product scope and build plan.
 
